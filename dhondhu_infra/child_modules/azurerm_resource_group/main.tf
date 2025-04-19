@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "rg" {
-  name = "rg-env9"
+  name = "rg-kuchbhi"
   location = "eastus"
 }
